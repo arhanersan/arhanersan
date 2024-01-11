@@ -1,6 +1,6 @@
 
 ## - 🌱 I’m currently studying Software Engineering and learning Java  .
-[web page of The Department of Software Engineering of IŞIK University]([(https://www.isikun.edu.tr/akademik/muhendislik-fakultesi/bolumler-ve-programlar/bilgisayar-muhendisligi/programlar/lisans-programi/yazilim-muhendisligi)])
+[Web page of The Department of Software Engineering of IŞIK University](https://www.isikun.edu.tr/akademik/muhendislik-fakultesi/bolumler-ve-programlar/bilgisayar-muhendisligi/programlar/lisans-programi/yazilim-muhendisligi )
 
 
 ### Connect Me
